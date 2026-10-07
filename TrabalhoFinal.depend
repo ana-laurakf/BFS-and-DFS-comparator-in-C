@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1765137505 source:c:\users\luisg\documents\trabalhofinal\arvore.c
+	"arvore.h"
+
+1765136310 c:\users\luisg\documents\trabalhofinal\arvore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1765139666 source:c:\users\luisg\documents\trabalhofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"arvore.h"
+
+1765137505 source:c:\users\luisg\onedrive\documentos\trabalhofinal\arvore.c
+	"arvore.h"
+
+1765136310 c:\users\luisg\onedrive\documentos\trabalhofinal\arvore.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1765148177 source:c:\users\luisg\onedrive\documentos\trabalhofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"arvore.h"
+
